@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+A simple quiz app made using Flutter and dart. Where you can choose an answer to each question and get a different result based on your answers! used State management Provider!
+
 
 ## Getting Started
 
